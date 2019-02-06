@@ -1,4 +1,4 @@
-tugas ucl semester 7
+tugas ecl semester 7
 langkah langkah dalam membangun proyek ini sebagai berikut
 
 1. sebelum mengerjakan proyek harus mendownload xammp terbaru yaitu xamp 7.3.1
